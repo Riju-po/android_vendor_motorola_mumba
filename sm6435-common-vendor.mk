@@ -305,9 +305,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.qti.diaghal-V1-ndk \
     android.hardware.bluetooth.audio-impl_prebuilt \
-    android.hardware.secure_element-V1-ndk \
     android.hardware.secure_element.thales.libse \
     btaudio_offload_if \
+    com.motorola.hardware.ifaa-V1-ndk \
     com.qualcomm.qti.dpm.api@1.0_vendor \
     deviceInfoServiceModuleNr \
     eglSubDriverAndroid \
@@ -425,6 +425,7 @@ PRODUCT_PACKAGES += \
     libcolor-default \
     libconfigdb \
     libcpion \
+    libdapparamstorage \
     libdataitems \
     libdiag \
     libdiagjni \
