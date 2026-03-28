@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.gatekeeper-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gatekeeper-service-qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.gnss-aidl-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gnss-aidl-service-qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.identity-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.identity-service-qti.rc \
-    vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.secure_element_gto.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.secure_element_gto.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.security.keymint-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.security.keymint-service-qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/cnd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/cnd.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/com.motorola.hardware.ifaa-V1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/com.motorola.hardware.ifaa-V1-service.rc \
