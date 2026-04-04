@@ -91,6 +91,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/gnss_antenna_info.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gnss_antenna_info.conf \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/gpfspath_oem_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/gpfspath_oem_config.xml \
+    vendor/motorola/mumba/proprietary/vendor/bin/hw/audiohalservice.qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/audiohalservice.qti \
+    vendor/motorola/mumba/proprietary/vendor/etc/init/audiohalservice_qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/audiohalservice_qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.bluetooth@aidl-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@aidl-service-qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.gatekeeper-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gatekeeper-service-qti.rc \
     vendor/motorola/sm6435-common/proprietary/vendor/etc/init/android.hardware.gnss-aidl-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gnss-aidl-service-qti.rc \
