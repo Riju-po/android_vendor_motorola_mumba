@@ -12,7 +12,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/permissions/privapp-permissions-com.google.android.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-com.google.android.euicc.xml \
     vendor/motorola/mumba/proprietary/product/bin/vendor.qti.qvirt-service_rs:$(TARGET_COPY_OUT_PRODUCT)/bin/vendor.qti.qvirt-service_rs \
     vendor/motorola/mumba/proprietary/product/etc/init/vendor.qti.qvirt-service_rs.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/vendor.qti.qvirt-service_rs.rc \
-    vendor/motorola/mumba/proprietary/product/etc/vintf/manifest/vendor.qti.qvirt-service.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/vintf/manifest/vendor.qti.qvirt-service.xml \
     vendor/motorola/mumba/proprietary/product/lib64/libvendor_qti_qvirtvendor_V1.dylib.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libvendor_qti_qvirtvendor_V1.dylib.so \
     vendor/motorola/mumba/proprietary/product/lib64/libvendor_qti_qvirt_V2.dylib.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libvendor_qti_qvirt_V2.dylib.so \
     vendor/motorola/mumba/proprietary/product/lib64/vendor.qti.qvirt-V1-ndk.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.qvirt-V1-ndk.so \
@@ -1036,3 +1035,5 @@ PRODUCT_PACKAGES += \
     fm_hci.xml
 
 endif
+P R O D U C T _ M A N I F E S T _ F I L E S   + =   v e n d o r / m o t o r o l a / m u m b a / p r o p r i e t a r y / p r o d u c t / e t c / v i n t f / m a n i f e s t / v e n d o r . q t i . q v i r t - s e r v i c e . x m l  
+ 
