@@ -1035,5 +1035,4 @@ PRODUCT_PACKAGES += \
     fm_hci.xml
 
 endif
-P R O D U C T _ M A N I F E S T _ F I L E S   + =   v e n d o r / m o t o r o l a / m u m b a / p r o p r i e t a r y / p r o d u c t / e t c / v i n t f / m a n i f e s t / v e n d o r . q t i . q v i r t - s e r v i c e . x m l  
- 
+PRODUCT_MANIFEST_FILES += vendor/motorola/mumba/proprietary/product/etc/vintf/manifest/vendor.qti.qvirt-service.xml
