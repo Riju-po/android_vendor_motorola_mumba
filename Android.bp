@@ -4,7 +4,6 @@
 
 soong_namespace {
     imports: [
-        "device/motorola/sm6435-common",
         "hardware/motorola",
         "hardware/qcom-caf/sm8450-6.6",
         "hardware/qcom-caf/wlan",
